@@ -7,7 +7,7 @@
       <desc lang="EN">Roon-style web skin for Lyrion Music Server — faceted Focus filtering, AI playlist studio, listening history and Wrapped stats, streaming-service discovery.</desc>
       <changes lang="EN">0.4.0: AI Studio playlists, Charts (Last.fm/ListenBrainz), streaming-service resolution (Qobuz/TIDAL/Spotify), Wrapped listening stats, skin settings tab.</changes>
       <url>https://raw.githubusercontent.com/hossamyazeed/lmskin/main/LMSkin-0.4.0.zip</url>
-      <sha>24e12f11a85531cb05c9995c122f157698f5c2d5</sha>
+      <sha>36a66fdaa6271183288010a37bd50fcc5dd648b4</sha>
     </plugin>
   </plugins>
   <details>
