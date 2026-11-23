@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0"?>
 <extensions>
   <plugins>
-    <plugin name="LMSkin" version="0.5.0" creator="hossamyazeed"
+    <plugin name="LMSkin" version="0.5.1" creator="hossamyazeed"
             category="skin" link="https://github.com/hossamyazeed/lmskin">
       <title lang="EN">LMSkin</title>
       <desc lang="EN">Roon-style web skin for Lyrion Music Server â€” faceted Focus filtering, AI playlist studio, listening history and Wrapped stats, streaming-service discovery.</desc>
       <changes lang="EN">See https://github.com/hossamyazeed/lmskin/commits.</changes>
-      <url>https://raw.githubusercontent.com/hossamyazeed/lmskin/main/LMSkin-0.5.0.zip</url>
-      <sha>9438396ffc7b03cf341c32c8e288e7f3482d1fa9</sha>
+      <url>https://raw.githubusercontent.com/hossamyazeed/lmskin/main/LMSkin-0.5.1.zip</url>
+      <sha>7af5f5caa978f66e0dd428b769c07b782f2e39f6</sha>
     </plugin>
   </plugins>
   <details>
